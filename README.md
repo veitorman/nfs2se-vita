@@ -12,6 +12,28 @@ Single-player gameplay, menus, sound, launcher and classic/modern controls have 
 
 Performance varies with the scene: the tester reported approximately **15–50 FPS**. Stable 40 or 60 FPS is **not** a release guarantee. Further renderer batching and frame-time work are planned. See [release notes](RELEASE_NOTES.md).
 
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/veitorman/nfs2se-vita/main/Screenshots/1.jpg" width="48%">
+  <img src="https://raw.githubusercontent.com/veitorman/nfs2se-vita/main/Screenshots/2.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/veitorman/nfs2se-vita/main/Screenshots/3.jpg" width="48%">
+  <img src="https://raw.githubusercontent.com/veitorman/nfs2se-vita/main/Screenshots/4.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/veitorman/nfs2se-vita/main/Screenshots/5.jpg" width="48%">
+  <img src="https://raw.githubusercontent.com/veitorman/nfs2se-vita/main/Screenshots/6.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/veitorman/nfs2se-vita/main/Screenshots/7.jpg" width="48%">
+  <img src="https://raw.githubusercontent.com/veitorman/nfs2se-vita/main/Screenshots/8.jpg" width="48%">
+</p>
+
 ## About AI Usage
 
 This project was developed with **limited AI assistance**.
