@@ -1,0 +1,10 @@
+{
+  "source": "launcherdes/MENU.PNG",
+  "sha256": "9b76b87e5c152973092bf3a6af8f9c36b7a229b868ce5a5ac11f6acfee8c6de1",
+  "size": [
+    960,
+    544
+  ],
+  "encoding": "RGBA8 top row first, unchanged pixels",
+  "guide": "launcherdes/safeareas.png"
+}

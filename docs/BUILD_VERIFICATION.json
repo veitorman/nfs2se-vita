@@ -1,0 +1,23 @@
+{
+  "version": "1.00",
+  "title_id": "NFSR00001",
+  "compiler": "arm-vita-eabi-gcc 15.2.0",
+  "checks": [
+    "VPK ZIP CRC",
+    "SFO identity/version/title",
+    "LiveArea assets and no targets",
+    "prepared menu texture",
+    "compiled source matches public snapshot",
+    "host ASan/UBSan config/input/launcher tests",
+    "standalone CMake configure",
+    "data helper lowercase copy on synthetic fixture",
+    "Recompiled ELF contains new data root and no old data root",
+    "runtime archive uses new data root",
+    "APP_VER matches VitaSDK two-digit format"
+  ],
+  "hardware": "Tester confirmed final 01.00 package installation and custom bubble/LiveArea on 2026-09-22; gameplay and controls confirmed in prior hardware tests. Performance remains variable.",
+  "vpk_sha256": "dc2b75110bc97488c2a5f106d98fdf16df641161855f44e63f33b5cf3eeb0aa8",
+  "data_directory": "ux0:data/nfs2-recomp",
+  "sfo_app_ver": "01.00",
+  "hardware_confirmation_date": "2026-09-22"
+}

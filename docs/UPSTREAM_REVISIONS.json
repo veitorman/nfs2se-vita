@@ -1,0 +1,22 @@
+{
+  "zaps-nfs2se": {
+    "url": "https://github.com/zaps166/NFSIISE.git",
+    "commit": "66cbaf47fd77e833c9331b81f6c1e52aff56913f"
+  },
+  "vitaGL": {
+    "url": "https://github.com/Rinnegatamante/vitaGL.git",
+    "commit": "114f197bb6528ed93886ba5444b90069670085be"
+  },
+  "vitaShaRK": {
+    "url": "https://github.com/Rinnegatamante/vitaShaRK.git",
+    "commit": "df24065e65098b2d1ac533760109ad4367573f28"
+  },
+  "SceShaccCgExt": {
+    "url": "https://github.com/bythos14/SceShaccCgExt.git",
+    "commit": "fb0e9d338525b067f3679ab33571323336493cca"
+  },
+  "NFSIISE-CPP": {
+    "url": "https://github.com/zaps166/NFSIISE-CPP",
+    "commit": "7607d07ea7471b0547d42fb9bb71e0c339f98a0c"
+  }
+}

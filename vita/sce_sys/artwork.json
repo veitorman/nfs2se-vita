@@ -1,0 +1,42 @@
+{
+  "icon0.png": {
+    "source": "IMAGES/release-c1/icon0.png",
+    "source_sha256": "062c1de184ab75150fc39a35eef81a27fe96d04036ddb15bb73aed305fe47375",
+    "packaged_sha256": "00cd3bd2466a943411379922aa07719c39eba99a377c2a38d8e11d00a480e637",
+    "size": [
+      128,
+      128
+    ],
+    "encoding": "8-bit indexed PNG, 256-color palette, opaque, not interlaced"
+  },
+  "pic0.png": {
+    "source": "IMAGES/release-c1/pic0.png",
+    "source_sha256": "c499a4d3bf3563f79709ad7d8f7c2d0847034ffdbfdf877cd487942413f60413",
+    "packaged_sha256": "b56cb3455681325c4a37af94faa40b19144b9ad7cf1f8a07d222dd9be6c18430",
+    "size": [
+      960,
+      544
+    ],
+    "encoding": "8-bit indexed PNG, 256-color palette, opaque, not interlaced"
+  },
+  "bg0.png": {
+    "source": "IMAGES/release-c1/bg0.png",
+    "source_sha256": "fe271f096e8f00a0268e89ed951eda1ac69dec2caf3023f664c949f7c4f7dca8",
+    "packaged_sha256": "f39feca5128f88347eb87b0630b4b53a90e75c80e418a19b544567a0e8d4e543",
+    "size": [
+      840,
+      500
+    ],
+    "encoding": "8-bit indexed PNG, 256-color palette, opaque, not interlaced"
+  },
+  "startup.png": {
+    "source": "IMAGES/release-c1/startup.png",
+    "source_sha256": "5e2a4767fce32cc485a6dc8557694d9a24d3c38053db182d27e9411157387a94",
+    "packaged_sha256": "e8996bc1a9adf9e90395374c73a31d563c22d90276eb22a778cced294b6eb440",
+    "size": [
+      280,
+      158
+    ],
+    "encoding": "8-bit indexed PNG, 256-color palette, opaque, not interlaced"
+  }
+}
