@@ -52,6 +52,8 @@ AI was used as a development and analysis tool, not as a replacement for underst
 
 The goal of using AI here was simple: **make manual reverse-engineering and debugging faster, not eliminate the engineering process.**
 
+*NO AI WAS USED IN THE DESIGN, THERE ARE 100% 3D RENDERS MADE BY ME, AS WELL AS THE BACKGROUND MENU FOR THE CONFIGURATOR (SEE GOODIESS FOLDER).*
+
 ## Requirements
 
 - A homebrew-enabled PS Vita with VitaShell.
