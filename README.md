@@ -12,6 +12,24 @@ Single-player gameplay, menus, sound, launcher and classic/modern controls have 
 
 Performance varies with the scene: the tester reported approximately **15–50 FPS**. Stable 40 or 60 FPS is **not** a release guarantee. Further renderer batching and frame-time work are planned. See [release notes](RELEASE_NOTES.md).
 
+## About AI Usage
+
+This project was developed with **limited AI assistance**.
+
+I have a general understanding of programming, software architecture, debugging, build systems, and the code being modified throughout this port. AI tools were primarily used as a way to **scan large portions of the codebase, identify possible problem areas, compare implementations, and accelerate repetitive debugging tasks**.
+
+In practice, AI helped reduce the time required to locate issues that would otherwise require manually searching through thousands of lines of code. Proposed changes were still reviewed, tested, adjusted, and validated manually — including repeated testing on real PlayStation Vita hardware.
+
+I would describe the project as approximately:
+
+**30% AI-assisted / 70% manual development, integration, testing and debugging.**
+
+This is **not a "vibe-coded" project**.
+
+AI was used as a development and analysis tool, not as a replacement for understanding the codebase. Architectural decisions, platform-specific adaptations, testing, performance work, troubleshooting, integration and final validation were carried out deliberately throughout development.
+
+The goal of using AI here was simple: **make manual reverse-engineering and debugging faster, not eliminate the engineering process.**
+
 ## Requirements
 
 - A homebrew-enabled PS Vita with VitaShell.
